@@ -1,0 +1,126 @@
+body {font-family: "Lato", sans-serif}
+
+.band-title{
+    text-align: center;
+}
+#custom-nav{
+    background-color: black;
+    height: 40px;
+    color: white;
+    
+     
+    
+}
+.search{
+    margin-right: 20px;
+}
+
+.band-text{
+    text-align: justify;
+}
+.tour-container{
+    background-color:black ;
+    color: white;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    height: g900px;
+}
+.tour-title-head{
+    margin-top: 300px;
+}
+.tour-title{
+    text-align: center;
+}
+.month{
+ padding: 0;
+ margin: 0;
+ 
+}
+hr{
+    padding: 0;
+    margin: 0;
+}
+
+.month-section{
+    background-color: white;
+    color: black;
+    height: 160px;
+  
+    
+}
+.sold{
+    background-color: orangered;
+    margin-left: 5px;
+}
+.ticket-left{
+    color: white;
+    background: black;
+    width: 140px;
+    height: 140px;
+    padding: 5px;
+    
+    -moz-border-radius: 60px; 
+    -webkit-border-radius: 60px; 
+    border-radius: 60px;
+    margin-bottom: 5px;
+    margin-left: 80%;
+    margin-top: 0;
+
+
+ 
+}
+.card-text{
+    color:black;
+}
+.card-size{
+    
+    margin-top: 30px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(58, 56, 56);
+}
+
+.contact-section{
+    height: 380px;
+    padding-top: 60px;
+}
+.half2{
+    margin-left: 10px;
+}
+.massagebox{
+    margin-top: 18px;
+    width: 100%;
+    height: 40px;
+}
+
+.submit-btn{
+    background-color: black;
+    color: white;
+    margin-left: 300px;
+    margin-top: 20px;
+    padding: 2px 8px;
+}
+.submit-btn:hover{
+    background-color: lightgray;
+    color: black;
+}
+
+.footer-container{
+    height: 300px;
+    padding-top: 150px;
+}
+.FA-icon{
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.FA-icon:hover{
+    color: lightgray;
+}
